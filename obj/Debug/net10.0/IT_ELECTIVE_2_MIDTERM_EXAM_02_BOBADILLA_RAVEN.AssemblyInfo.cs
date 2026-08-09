@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IT_ELECTIVE_2_MIDTERM_EXAM_02_BOBADILLA_RAVEN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44248549969efc46b1aa23a7e1101a470e0baae7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23f4532827e717264e79de3b38fbfacd7cb93edd")]
 [assembly: System.Reflection.AssemblyProductAttribute("IT_ELECTIVE_2_MIDTERM_EXAM_02_BOBADILLA_RAVEN")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IT_ELECTIVE_2_MIDTERM_EXAM_02_BOBADILLA_RAVEN")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
